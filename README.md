@@ -1,5 +1,9 @@
 # Machine Learning Models: Logistic Regression, SVM, and Naive Bayes
 
+## DATASET
+- source:https://catalog.data.gov/dataset/consumer-complaint-database
+- this dataset is very large 6 gb appox
+- so I tried splitting data
 ## Overview
 This project demonstrates the application of three fundamental machine learning models:
 - Logistic Regression
