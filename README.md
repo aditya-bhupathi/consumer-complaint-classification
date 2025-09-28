@@ -1,9 +1,5 @@
 # Machine Learning Models: Logistic Regression, SVM, and Naive Bayes
 
-## DATASET
-- source:https://catalog.data.gov/dataset/consumer-complaint-database
-- this dataset is very large 6 gb appox
-- so I tried splitting data
 ## Overview
 This project demonstrates the application of three fundamental machine learning models:
 - Logistic Regression
@@ -16,9 +12,13 @@ The primary objective is to compare the performance of these classifiers on the 
 ---
 
 ## Files
-- **Cleaned_LogReg_SVM_NB.ipynb**: Jupyter Notebook containing the implementation of Logistic Regression, SVM, and Naive Bayes classifiers.
+- **B V V S B Aditya.ipynb**: Jupyter Notebook containing the implementation of Logistic Regression, SVM, and Naive Bayes classifiers.
 
----
+## Dataset
+- source:https://catalog.data.gov/dataset/consumer-complaint-database
+- This dataset is too large 6.4gb approx
+- so i tried splitting data
+
 
 ## Requirements
 To run the notebook, install the following Python libraries:
@@ -46,7 +46,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ## How to Run
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Cleaned_LogReg_SVM_NB.ipynb
+   jupyter notebook "B V V S B Aditya.ipynb"
    ```
 2. Run all cells step by step.
 
